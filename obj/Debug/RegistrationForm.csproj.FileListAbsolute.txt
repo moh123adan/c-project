@@ -1,0 +1,10 @@
+C:\Users\saxar\source\repos\RegistrationForm\RegistrationForm\bin\Debug\RegistrationForm.exe.config
+C:\Users\saxar\source\repos\RegistrationForm\RegistrationForm\bin\Debug\RegistrationForm.exe
+C:\Users\saxar\source\repos\RegistrationForm\RegistrationForm\bin\Debug\RegistrationForm.pdb
+C:\Users\saxar\source\repos\RegistrationForm\RegistrationForm\obj\Debug\RegistrationForm.csproj.AssemblyReference.cache
+C:\Users\saxar\source\repos\RegistrationForm\RegistrationForm\obj\Debug\RegistrationForm.Form1.resources
+C:\Users\saxar\source\repos\RegistrationForm\RegistrationForm\obj\Debug\RegistrationForm.Properties.Resources.resources
+C:\Users\saxar\source\repos\RegistrationForm\RegistrationForm\obj\Debug\RegistrationForm.csproj.GenerateResource.cache
+C:\Users\saxar\source\repos\RegistrationForm\RegistrationForm\obj\Debug\RegistrationForm.csproj.CoreCompileInputs.cache
+C:\Users\saxar\source\repos\RegistrationForm\RegistrationForm\obj\Debug\RegistrationForm.exe
+C:\Users\saxar\source\repos\RegistrationForm\RegistrationForm\obj\Debug\RegistrationForm.pdb
